@@ -1,5 +1,5 @@
-import DealAnalyzer from './DealAnalyzer'
+import DealAnalyzerMulti from './DealAnalyzerMulti'
 
 export default function App() {
-  return <DealAnalyzer />
+  return <DealAnalyzerMulti />
 }
